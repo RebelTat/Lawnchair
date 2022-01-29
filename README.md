@@ -4,6 +4,8 @@
 
 - Launcher
 
+- Lawn icons
+
 - Feeds integration
 
 - Recents provider
