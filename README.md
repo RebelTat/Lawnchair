@@ -1,6 +1,6 @@
 # Lawnchair
 
-**Summary**: This repo contains: Lawnchair assets ([source]https://lawnchair.app[/source]):
+**Summary**: This repo contains: Lawnchair assets ([lawnchair](https://lawnchair.app)):
 
 - Launcher
 
